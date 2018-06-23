@@ -9,7 +9,7 @@ Bacharelado em Sistemas de Informação – Universidade Federal do Piauí – E
 <h1>Experiência Profissional</h1>
 
 <h4>2014 – Estágio curricular, não remunerado, durante 3 meses na Prefeitura Municipal de Picos - PI. Suporte técnico aos recursos e equipamentos do local.<br>
-2018 – Professor de Informática para concursos, desde fevereiro 2018 no Curso Cavalcante
+2018 – </a href="https://www.youtube.com/watch?v=UHlRa0p09eI">Professor de Informática para concursos, desde fevereiro 2018 no Curso Cavalcante</a>
 </h4>
 
 <h1>
