@@ -27,6 +27,6 @@ Professor de Programação Web – Projeto de Extensão CUCA/ADIMÓ, 2016 (volun
 Apresentação e Publicação do Artigo – Novo Algoritmo de Ordenação Higher Count Comparado aos Demais. em: Enucomp, 2017, Parnaíba - PI. Anais Eletrônicos do ENUCOMP X, 2017.<br>
 Apresentação e Publicação de Artigo – Uma Avaliação de Desempenho sobre uma Microcloud. In: Enucomp, 2017, Parnaíba. Anais Eletrônicos do ENUCOMP X, 2017.<br>
 Apresentação de Palestra – Aplicabilidade dos Algoritmos de Ordenação e Apresentação de um Novo Algoritmo Chamado Higher Count. em: SNCT 2017, Picos – PI.<br>
-Capítulo de livro – Bootstrap: Teoria, Prática, Responsividade e Facilidades. III Escola Regional de Informática do Piauí. Livro Anais - Artigos e Minicursos,. 1ed.: , 2017, v. 1, p. 487-499.<br>
+<a href="http://www.eripi.com.br/2017/images/anais/minicursos/12.pdf">Capítulo de livro – Bootstrap: Teoria, Prática, Responsividade e Facilidades</a>. III Escola Regional de Informática do Piauí. Livro Anais - Artigos e Minicursos,. 1ed.: , 2017, v. 1, p. 487-499.<br>
 <a href="http://www.eripi.com.br/2017/images/certificados/eripi-certificados-minicurso.pdf">Apresentação de Minicurso</a> – <a href="http://www.eripi.com.br/2017/programacao/minicursos">Bootstrap: Teoria, Prática, Responsividade e Facilidades</a>. III Escola Regional de Informática do Piauí, 2017, Picos - PI.<br>
 </h4>
