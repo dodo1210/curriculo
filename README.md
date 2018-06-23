@@ -28,5 +28,5 @@ Apresentação e Publicação do Artigo – Novo Algoritmo de Ordenação Higher
 Apresentação e Publicação de Artigo – Uma Avaliação de Desempenho sobre uma Microcloud. In: Enucomp, 2017, Parnaíba. Anais Eletrônicos do ENUCOMP X, 2017.<br>
 Apresentação de Palestra – Aplicabilidade dos Algoritmos de Ordenação e Apresentação de um Novo Algoritmo Chamado Higher Count. em: SNCT 2017, Picos – PI.<br>
 Capítulo de livro – Bootstrap: Teoria, Prática, Responsividade e Facilidades. III Escola Regional de Informática do Piauí. Livro Anais - Artigos e Minicursos,. 1ed.: , 2017, v. 1, p. 487-499.<br>
-Apresentação de Minicurso – Bootstrap: Teoria, Prática, Responsividade e Facilidades. III Escola Regional de Informática do Piauí, 2017, Picos - PI.<br>
+<a href="http://www.eripi.com.br/2017/images/certificados/eripi-certificados-minicurso.pdf">Apresentação de Minicurso</a> – <a href="http://www.eripi.com.br/2017/programacao/minicursos">Bootstrap: Teoria, Prática, Responsividade e Facilidades</a>. III Escola Regional de Informática do Piauí, 2017, Picos - PI.<br>
 </h4>
