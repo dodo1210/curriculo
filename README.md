@@ -1,2 +1,2 @@
-# curriculo
-Currículo pessoal de Douglas Siqueira Gonçalves
+# Currículo de Douglas Siqueira Gonçalves
+
