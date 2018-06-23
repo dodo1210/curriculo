@@ -30,3 +30,17 @@ Apresentação de Palestra – Aplicabilidade dos Algoritmos de Ordenação e Ap
 <a href="http://www.eripi.com.br/2017/images/anais/minicursos/12.pdf">Capítulo de livro – Bootstrap: Teoria, Prática, Responsividade e Facilidades</a>. III Escola Regional de Informática do Piauí. Livro Anais - Artigos e Minicursos,. 1ed.: , 2017, v. 1, p. 487-499.<br>
 <a href="http://www.eripi.com.br/2017/images/certificados/eripi-certificados-minicurso.pdf">Apresentação de Minicurso</a> – <a href="http://www.eripi.com.br/2017/programacao/minicursos">Bootstrap: Teoria, Prática, Responsividade e Facilidades</a>. III Escola Regional de Informática do Piauí, 2017, Picos - PI.<br>
 </h4>
+
+
+<h1>Informações Adicionais </h1>
+
+<h4>Conhecimento Intermediário em Inglês  (Leitura e Escrita) e Conhecimento Básico em Inglês (Compreensão)<br>
+Conhecimento em Softwares do Pacote Microsoft Office (World, Excel e Power Point).<br>
+Conhecimento em Softwares do Pacote LibreOffice (Writer, Calc e Impress).<br>
+Conhecimento em Linguagens de Programação (C, Python e Java).<br>
+Conhecimento na área de Sistemas Distribuídos.<br>
+Conhecimento em desenvolvimento de sites web (HTML, CSS, Bootstrap e Python-Django).<br>
+Conhecimento em Sistemas Operacionais (Windows e Linux).<br>
+Conhecimento em Editores de Imagem (GIMP, PhotoShop, Inkscape e Corel Draw).<br>
+Conhecimento em Edição de Vídeo (Adobe After Effects e Windows Movie Maker)<br>
+</h4>
