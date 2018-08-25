@@ -8,8 +8,8 @@ Bacharelado em Sistemas de Informação – Universidade Federal do Piauí – E
 <h1>Experiência Profissional</h1>
 
 <h4>2014 – Estágio curricular, não remunerado, durante 3 meses na Prefeitura Municipal de Picos - PI. Suporte técnico aos recursos e equipamentos do local.<br>
-2018 – <a href="https://www.youtube.com/watch?v=UHlRa0p09eI">Professor de Informática para concursos</a>, desde fevereiro 2018 no <a href="cursocavalcante.com">Curso Cavalcante</a><br>
-2018 - Operador de telemarketing, desde agosto 2018 na <a href="virtex.com.br">VirteX Telecom</a>
+2018 – <a href="https://www.youtube.com/watch?v=UHlRa0p09eI">Professor de Informática para concursos</a>, desde fevereiro 2018 no <a href="http://www.cursocavalcante.com">Curso Cavalcante</a><br>
+2018 - Operador de telemarketing, desde agosto 2018 na <a href="http://www.virtex.com.br">VirteX Telecom</a>
 </h4>
 
 <h1>
@@ -29,7 +29,7 @@ Professor de Programação Web – Projeto de Extensão CUCA/ADIMÓ, 2016 (volun
 Apresentação de Palestra – Aplicabilidade dos Algoritmos de Ordenação e Apresentação de um Novo Algoritmo Chamado Higher Count. em: SNCT 2017, Picos – PI.<br>
 <a href="http://www.eripi.com.br/2017/images/anais/minicursos/12.pdf">Capítulo de livro – Bootstrap: Teoria, Prática, Responsividade e Facilidades</a>. III Escola Regional de Informática do Piauí. Livro Anais - Artigos e Minicursos,. 1ed.: , 2017, v. 1, p. 487-499.<br>
 <a href="http://www.eripi.com.br/2017/images/certificados/eripi-certificados-minicurso.pdf">Apresentação de Minicurso</a> – <a href="http://www.eripi.com.br/2017/programacao/minicursos">Bootstrap: Teoria, Prática, Responsividade e Facilidades</a>. III Escola Regional de Informática do Piauí, 2017, Picos - PI.<br>
-<a href="http://natal.uern.br/eventos/csbc2018/wp-content/uploads/2018/08/Anais-Final-WPerformance.pdf">Publicação de Artigo </a>- ma Análise de Desempenho sobre uma MicroFog <a href="natal.uern.br/eventos/csbc2018/?page_id=234">WPerformace</a>, 2018. Natal. Natal. 17º WPERFORMANCE ? WORKSHOP EM DESEMPENHO DE SISTEMAS COMPUTACIONAIS E DE COMUNICAÇÃO. v. 17. p. 298-303.
+<a href="http://natal.uern.br/eventos/csbc2018/wp-content/uploads/2018/08/Anais-Final-WPerformance.pdf">Publicação de Artigo </a>- ma Análise de Desempenho sobre uma MicroFog <a href="http://www.natal.uern.br/eventos/csbc2018/?page_id=234">WPerformace</a>, 2018. Natal. Natal. 17º WPERFORMANCE ? WORKSHOP EM DESEMPENHO DE SISTEMAS COMPUTACIONAIS E DE COMUNICAÇÃO. v. 17. p. 298-303.
 </h4>
 
 <h1>Informações Adicionais </h1>
